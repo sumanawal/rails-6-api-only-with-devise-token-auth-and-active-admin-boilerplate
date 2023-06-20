@@ -1,6 +1,6 @@
 
 ### Rails API Boilerplate with Devise Token Auth and Active Admin
-This is a boilerplate for a Rails API application that uses Devise token auth and Active Admin. It includes the following features:
+This is a boilerplate for a Rails API application that uses [Devise token auth](https://github.com/lynndylanhurley/devise_token_auth) and [Active Admin](https://github.com/activeadmin/activeadmin). It includes the following features:
 
 - User authentication with Devise
 - Token-based authentication with Devise token auth
